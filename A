@@ -21,7 +21,7 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1225690211_b384000_sl
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="TV Lokal",GTV 1
 https://dl.dropbox.com/s/glr4p7lmglp8tab/gtv.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="TV Lokal",GTV 2
-https://brhn.xyz/vidiodotcom/global-sd.m3u8
+http://ikasalon.com/cgi_bin/vidio/m3u/x23%5e&1.globaltv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="TV Lokal",RCTI 1
 https://dl.dropbox.com/s/yqpukzie6nuyk8n/rcti.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="TV Lokal",RCTI 2
@@ -283,11 +283,11 @@ https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdn
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 1",Astro Arena
 https://delivery.macan.live/stream/arena/playlist.m3u8?token=8CxnZ&v=20200308
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 1",Astro Supersports 1
-https://delivery.macan.live/stream/macan_sport_10/playlist.m3u8?token=8CxnZ&v=20200308
+http://mlsh1.com:2086/stuforrest452/APnHTsH0Fe/79787
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 1",Astro Supersports 2
-https://delivery.macan.live/stream/macan_sport_11/playlist.m3u8?token=8CxnZ&v=20200308
+http://mlsh1.com:2086/stuforrest452/APnHTsH0Fe/79788
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 1",Astro Supersports 3
-https://delivery.macan.live/stream/macan_sport_12/playlist.m3u8?token=8CxnZ&v=20200308
+http://mlsh1.com:2086/stuforrest452/APnHTsH0Fe/79789
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 1",Astro Supersports 4
 https://delivery.macan.live/stream/macan_sport_13/playlist.m3u8?token=8CxnZ&v=20200308
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 1", SKYNET SPORTS 0
@@ -327,32 +327,58 @@ https://livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 1",Fight sprotsprot
 https://delivery.macan.live/stream/fightsport/playlist.m3u8?token=8CxnZ&v=20200308
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 2",BEIN SPORTS 2 
+http://mlsh1.com:2086/stuforrest452/APnHTsH0Fe/774
+ #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 2",BEIN SPORTS 3 
+http://mlsh1.com:2086/stuforrest452/APnHTsH0Fe/775
+ #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 2",BEIN SPORTS 4 
+http://mlsh1.com:2086/stuforrest452/APnHTsH0Fe/776
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 2",BEIN SPORTS 5
+http://mlsh1.com:2086/stuforrest452/APnHTsH0Fe/777
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 2",BEIN SPORTS 6
+http://mlsh1.com:2086/stuforrest452/APnHTsH0Fe/778
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 2",BEIN SPORTS 7 
+http://mlsh1.com:2086/stuforrest452/APnHTsH0Fe/779
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 2",BEIN SPORTS 8
+http://mlsh1.com:2086/stuforrest452/APnHTsH0Fe/780
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 2",BEIN SPORTS 9
+http://mlsh1.com:2086/stuforrest452/APnHTsH0Fe/781
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 2",
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 2",FOX SPORTS 501
+http://mlsh1.com:2086/stuforrest452/APnHTsH0Fe/5335
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 2",FOX SPORTS 502
+http://mlsh1.com:2086/stuforrest452/APnHTsH0Fe/5336
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 2",FOX SPORTS 503
+http://mlsh1.com:2086/stuforrest452/APnHTsH0Fe/5337
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 2",FOX SPORTS 504
+http://mlsh1.com:2086/stuforrest452/APnHTsH0Fe/5338
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 2",FOX SPORTS 505
+http://mlsh1.com:2086/stuforrest452/APnHTsH0Fe/5339
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 2",FOX SPORTS 506
+http://mlsh1.com:2086/stuforrest452/APnHTsH0Fe/5340
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 2",FOX SPORTS 507
+http://mlsh1.com:2086/stuforrest452/APnHTsH0Fe/5341
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 2",FOX SPORTS NEWS
+http://mlsh1.com:2086/stuforrest452/APnHTsH0Fe/5334
 
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 2",LALIGA 1
-https://delivery.macan.live/stream/macan_sport_24/playlist.m3u8?token=8CxnZ&v=20200308
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 2",LALIGA 2
-https://delivery.macan.live/stream/macan_sport_25/playlist.m3u8?token=8CxnZ&v=20200308
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 2",LALIGA 3
-https://delivery.macan.live/stream/macan_sport_26/playlist.m3u8?token=8CxnZ&v=20200308
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 2",LALIGA 4
-https://delivery.macan.live/stream/macan_sport_27/playlist.m3u8?token=8CxnZ&v=20200308
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 2",LALIGA 5
-https://delivery.macan.live/stream/macan_sport_28/playlist.m3u8?token=8CxnZ&v=20200308
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 2",LALIGA 6
-https://delivery.macan.live/stream/macan_sport_29/playlist.m3u8?token=8CxnZ&v=20200308
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 2",LALIGA 7
-https://delivery.macan.live/stream/macan_sport_30/playlist.m3u8?token=8CxnZ&v=20200308
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 2",LALIGA 8
-https://delivery.macan.live/stream/macan_sport_31/playlist.m3u8?token=8CxnZ&v=20200308
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 2",LALIGA 9
-https://delivery.macan.live/stream/macan_sport_32/playlist.m3u8?token=8CxnZ&v=20200308
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 2",LALIGA 10
-https://delivery.macan.live/stream/macan_sport_33/playlist.m3u8?token=8CxnZ&v=20200308
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 2",LALIGA 11
-https://delivery.macan.live/stream/macan_sport_34/playlist.m3u8?token=8CxnZ&v=20200308
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 2",LALIGA 12
-https://delivery.macan.live/stream/macan_sport_35/playlist.m3u8?token=8CxnZ&v=20200308
+
+ #EXTINF:-1  tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 2",ELEVEN SPORTS 1
+http://mlsh1.com:2086/stuforrest452/APnHTsH0Fe/23264
+  #EXTINF:-1  tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 2",ELEVEN SPORTS 2
+http://mlsh1.com:2086/stuforrest452/APnHTsH0Fe/23262
+ #EXTINF:-1  tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 2",ELEVEN SPORTS 2
+http://mlsh1.com:2086/stuforrest452/APnHTsH0Fe/23265
+ #EXTINF:-1  tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 2",ELEVEN SPORTS 3
+http://mlsh1.com:2086/stuforrest452/APnHTsH0Fe/23263
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 2",ELEVEN SPORTS 3
+http://mlsh1.com:2086/stuforrest452/APnHTsH0Fe/23266
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 2",ELEVEN SPORTS 4
+http://mlsh1.com:2086/stuforrest452/APnHTsH0Fe/23267
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 2",ELEVEN SPORTS 5
+http://mlsh1.com:2086/stuforrest452/APnHTsH0Fe/23268
+
 
 
 
@@ -362,7 +388,6 @@ http://125.209.99.45:43568/BRN/TenSports.stream/chunklist_w1051953621.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 3",RAcing com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?checkedby:iptvcat.com
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 3",
-
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 3",Sport Inter
 https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/index-f2-v1-a1.m3u8?checkedby:iptvcat.com
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Live Sports 3",TENIS 2
