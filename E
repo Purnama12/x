@@ -133,15 +133,12 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=0b07c4aabfdc28bb8236e195c401e1b2102a6ed6587b5b8cb4ebbe972864690b
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-id.png" group-title="TV NASIONAL",TVRI Nasional
-#EXTVLCOPT:http-user-agent=OKBOS
 https://fikrulmkc.my.id/bagus/usee-tvri.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/aa/antv.png"  group-title="TV NASIONAL",ANTV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://solotv.me:8080/Line1698/b88d5078/165072
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv_one_id.png" group-title="TV NASIONAL",TV ONE 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://solotv.me:8080/Line1698/b88d5078/162507
 
 
@@ -149,7 +146,6 @@ http://solotv.me:8080/Line1698/b88d5078/162507
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=4b0a59ddf11c58e7446c9df0da541a84102a6ed6587b5b8cb4ebbe972864690b
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/nn/net_tv_id.png" group-title="TV NASIONAL",NET.
-#EXTVLCOPT:http-user-agent=OKBOS
 https://fikrulmkc.my.id/bagus/usee-net.m3u8
 
 
@@ -157,7 +153,6 @@ https://fikrulmkc.my.id/bagus/usee-net.m3u8
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=6c29793a140a811d0c45ce03c1c93a28102a6ed6587b5b8cb4ebbe972864690b
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_tv_id.png" group-title="TV NASIONAL",Trans TV
-#EXTVLCOPT:http-user-agent=OKBOS
 https://fikrulmkc.my.id/bagus/usee-transtv.m3u8
 
 
@@ -233,7 +228,6 @@ https://fikrulmkc.my.id/bagus/usee-jtv.m3u8
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=3891b14b5d8cce2fdd8dcdb4ded28f6d102a6ed6587b5b8cb4ebbe972864690b
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png" group-title="TV NASIONAL",DAAITV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://fikrulmkc.my.id/bagus/usee-daaitv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png" group-title="TV NASIONAL",DAAITV
@@ -318,7 +312,10 @@ https://livecdn.fptplay.net/hda/foxfamilymovies_2000.stream/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/c5/29/pZSnfNbm_t.jpg" group-title="MOVIES",FOX Action Movies HD
+http://iptvtree.net:8080/44444/4506fd18/157575
 
+#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/c5/29/pZSnfNbm_t.jpg" group-title="MOVIES",FOX Action Movies HD
+http://iptvtree.net:8080/44444/4506fd18/157608
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_global.png" group-title="MOVIES",FOX HD
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
@@ -327,6 +324,7 @@ https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_crime_global.png" group-title="MOVIES",FOX Crime
 #https://nonton.site:8443/novi/novi123/763
 http://solotv.me:8080/Line1698/b88d5078/165076
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-life-us.png" group-title="MOVIES",FOX Life
 https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
 
@@ -343,20 +341,22 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits_tv_sg.png" group-title="MOVIES",HITS
 http://solotv.me:8080/Line1698/b88d5078/165085
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits_tv_sg.png" group-title="MOVIES",HITS UseeTV
+https://fikrulmkc.my.id/bagus/usee-hits.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits-movies-sg.png" group-title="MOVIES",HITS Movies
 http://solotv.me:8080/Line1698/b88d5078/221947
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_chinese_movies_se_asia.png" group-title="MOVIES",Star Chinese Movies HD
-##https://nonton.site:8443/novi/novi123/780
 http://solotv.me:8080/Line1698/b88d5078/264800
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_chinese_movies_legend.png" group-title="MOVIES",SCM Legend
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_chinese_movies_legend.png" group-title="MOVIES",SCM Legend
+http://iptvtree.net:8080/44444/4506fd18/171981
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-movies-hk.png" group-title="MOVIES",Celestial Movies USETV
 https://fikrulmkc.my.id/bagus/usee-celestialmovie.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-movies-hk.png" group-title="MOVIES",Celestial Movies
-#http://solotv.me:8080/Line1698/b88d5078/165065
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-classic-movies-hk.png" group-title="MOVIES",CCM
@@ -364,7 +364,6 @@ http://50.7.161.82:8278/streams/d/celestial2/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-cinema-id.png" group-title="MOVIES",MyCinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema_world_asia.png" group-title="MOVIES",CinemaWorld
@@ -375,14 +374,13 @@ https://fikrulmkc.my.id/bagus/usee-cinemaworld.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/my_cinema_europe_kr.png" group-title="MOVIES",My Cinema Europe
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://rr.dens.tv/h/h18/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thrill_hk.png" group-title="MOVIES",thrill USSETV
 https://andriant.net/baru/thrill.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thrill_hk.png" group-title="MOVIES",thrill
-http://solotv.me:8080/Line1698/b88d5078/157580
+http://iptvtree.net:8080/44444/4506fd18/157580
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thrill_hk.png" group-title="MOVIES",thrill USSETV
 https://fikrulmkc.my.id/bagus/usee-thrill.m3u8
@@ -405,7 +403,6 @@ https://fikrulmkc.my.id/bagus/usee-galaxypremium.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_tv_us.png" group-title="MOVIES",WarnerTV ussetv
-#EXTVLCOPT:http-user-agent=OKBOS
 https://fikrulmkc.my.id/bagus/usee-warner.m3u8
 
 
@@ -462,7 +459,6 @@ https://fikrulmkc.my.id/bagus/usee-bioskopindonesia.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/imc-id.png" group-title="MOVIES",IMC ussetv
-#http://solotv.me:8080/Line1698/b88d5078/264769
 https://andriant.net/baru/imc.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/imc-id.png" group-title="MOVIES",IMC ussetv
@@ -511,6 +507,17 @@ https://fikrulmkc.my.id/bagus/usee-dunialain.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/blue-ant-extreme-ca.png" group-title="ENTERTAINMENT",Blue Ant Extreme
 https://fikrulmkc.my.id/bagus/usee-blueantextreme.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/blue-ant-extreme-ca.png" group-title="ENTERTAINMENT",Blue Ant Extreme
+http://45.126.83.51:80/session/b74c136c-7251-11e9-9783-83b5ae4d75de/dr9445/h/h15/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/blue-ant-entertainment-ca.png" group-title="ENTERTAINMENT",BlueAnt Entertainment HD
+http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/blue-ant-entertainment-ca.png" group-title="ENTERTAINMENT",BlueAnt Entertainment HD
+http://iptvtree.net:8080/44444/4506fd18/196551
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/k_plus_kr.png" group-title="ENTERTAINMENT",K+
+http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/k_plus_kr.png" group-title="ENTERTAINMENT",K+
 https://fikrulmkc.my.id/bagus/usee-kplus.m3u8
@@ -584,7 +591,7 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 https://fikrulmkc.my.id/bagus/usee-dreamworks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/aniplus_kr_hd.png" group-title="KIDS",Aniplus
-http://mu01.okcomputer.club:8880/HLNM1795/654645654/71110
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/aniplus_kr_hd.png" group-title="KIDS",Aniplus USSETV
 #http://solotv.me:8080/Line1698/b88d5078/157611
