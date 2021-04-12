@@ -1,10 +1,6 @@
 
- 
+User Agent/26.0 (Linux;Android 7.1.1) ExoPlayerLib/2.4.0
    
-# simpan.cc hanya menyediakan tempat untuk menyimpan konten playlist.
-# Melanggar hak cipta kamu? Kirim email ke nanank@macan.live untuk menghilangkannya.
-# Infringing your rights? Send an email to nanank@macan.live to remove it.
-#EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg" x-tvg-url="https://macan.tv/xmltv.php?username=epg&password=epg"
 
 
 #EXTINF:-1
@@ -100,10 +96,10 @@ https://nonton.site:8443/6894864475/7163819284/31
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv_one_id.png" group-title="TV NASIONAL",TV ONE 2
 #http://solotv.me:8080/Line1698/b88d5078/162507
-https://stream-05.dc3.dailymotion.com/sec(045Msia06uu92p_oLsoybJ1QLMTXhnn6JBaCQ5-ZM6Y)/dm/3/x619221/s/live-3.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
+https://stream-03.ix7.dailymotion.com/sec(045Msia06uu92p_oLsoybA6xVmBWaH-xwHH6Rrl7dOI)/dm/3/x619221/s/live-3.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/nn/net_tv_id.png" group-title="TV NASIONAL",NET.
-
+https://indotv.tech/m3u8sd/usee-net-indonesia.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/nn/net_tv_id.png" group-title="TV NASIONAL",NET.USEETV
 https://fikrulmkc.my.id/bagus/usee-net.m3u8
@@ -130,13 +126,13 @@ https://nonton.site:8443/6894864475/7163819284/32
 https://fikrulmkc.my.id/bagus/usee-sctv.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png" group-title="TV NASIONAL",SCTV
-
+https://indotv.tech/m3u8sd/usee-sctv-indonesia.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ii/indosiar-id.png" group-title="TV NASIONAL",Indosiar liga.Penpora
 
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ii/indosiar-id.png" group-title="TV NASIONAL",Indosiar
-
+https://indotv.tech/m3u8sd/usee-indosiar-indonesia.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ii/indosiar-id.png" group-title="TV NASIONAL",Indosiar USEETV
 https://fikrulmkc.my.id/bagus/usee-indosiar.m3u8
@@ -164,23 +160,24 @@ https://fikrulmkc.my.id/bagus/usee-kompastv.m3u8
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rcti_id.png" group-title="TV NASIONAL",RCTI
-
+https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/gtv-id.png" group-title="TV NASIONAL",Global TV
-#https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/gtv-id.png" group-title="TV NASIONAL",Global TV
 https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnc_id_tv.png" group-title="TV NASIONAL",MNC TV
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-
-EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnc_id_tv.png" group-title="TV NASIONAL",MNC TV 2
 https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnc_id_tv.png" group-title="TV NASIONAL",MNC TV 
+https://moegi.akamaized.net/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/inews-id.png" group-title="TV NASIONAL",iNEWS
-#https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/inews-id.png" group-title="TV NASIONAL",iNEWS
 https://moegi.akamaized.net/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 
@@ -188,7 +185,7 @@ https://moegi.akamaized.net/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/jj/jogja-istimewa-tv-id.png" group-title="TV NASIONAL",JITV Jogjakarta
-
+https://indotv.tech/m3u8sd/usee-jitv-indonesia.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/jj/jogja-istimewa-tv-id.png" group-title="TV NASIONAL",JITV Jogjakarta
 http://202.169.224.76:1935/tv/jitv/chunklist_w1644101270.m3u8
@@ -206,7 +203,7 @@ https://fikrulmkc.my.id/bagus/usee-jaktv.m3u8
 https://fikrulmkc.my.id/bagus/usee-daaitv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png" group-title="TV NASIONAL",DAAITV
-
+https://indotv.tech/m3u8sd/usee-daaitv-indonesia.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bali_tv_id.png" group-title="TV NASIONAL",Bali TV USEETV
 https://fikrulmkc.my.id/bagus/usee-balitv.m3u8
@@ -321,10 +318,21 @@ https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_global.png" group-title="MOVIES",FOX htl
 https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/c5/29/pZSnfNbm_t.jpg" group-title="MOVIES",FOX Action Movies HD
-https://tinyurl.com/yemmusow?token=ShareExtGroup/foxactionThai.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_crime_global.png" group-title="MOVIES",FOX Crime
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_crime_global.png" group-title="MOVIES",FOX Crim
+http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_crime_global.png" group-title="MOVIES", MOVIES
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_crime_global.png" group-title="MOVIES", MOVIES
+http://tx2play1.douyucdn.cn/live/dyliveflv3/3637778raLSXdOdu_4000p.xs
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_crime_global.png" group-title="MOVIES", MOVIES
+http://tx2play1.douyucdn.cn/20415rnWbjg6Ex1K_4000p.xs?uuid=
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_crime_global.png" group-title="MOVIES", MOVIES
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-life-us.png" group-title="MOVIES",FOX Life
@@ -358,10 +366,10 @@ https://nonton.site:8443/6894864475/7163819284/780
 https://nonton.site:8443/6894864475/7163819284/1859
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-movies-hk.png" group-title="MOVIES",Celestial Movies USETV
-
+http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thrill_hk.png" group-title="MOVIES",thrill USSETV
-
+https://indotv.tech/m3u8sd/usee-thrill-indonesia.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-movies-hk.png" group-title="MOVIES",Celestial Movies
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
@@ -388,12 +396,9 @@ https://indotv.tech/m3u8sd/usee-cinemaworld-indonesia.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thrill_hk.png" group-title="MOVIES",thrill USSETV
 https://tinyurl.com/yhad5thh?token=ShareExtGroup/Thrill.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thrill_hk.png" group-title="MOVIES",thrill
-https://nonton.site:8443/6894864475/7163819284/4
-
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/galaxy_tv_id.png" group-title="MOVIES",Galaxy USSETV
-
+https://indotv.tech/m3u8sd/usee-galaxy-indonesia.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/galaxy_tv_id.png" group-title="MOVIES",Galaxy
 #http://solotv.me:8080/Line1698/b88d5078/264773
@@ -416,18 +421,18 @@ https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
 https://nonton.site:8443/6894864475/7163819284/1533
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png" group-title="MOVIES",TVN MOVIES ussetv
-
+https://indotv.tech/m3u8sd/usee-tvnmovies-indonesia.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png" group-title="MOVIES",TVN MOVIES
 http://solotv.me:8080/Line1698/b88d5078/157596
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png" group-title="MOVIES",TVN ussetv
-
+https://indotv.tech/m3u8sd/usee-tvn-indonesia.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="MOVIES",FLIK ussetv
-
+https://indotv.tech/m3u8sd/usee-flik-indonesia.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="MOVIES",FLIK
 https://nonton.site:8443/6894864475/7163819284/29592
@@ -441,7 +446,7 @@ https://nonton.site:8443/6894864475/7163819284/29592
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kix-hk.png" group-title="MOVIES",KIX USSETV
-
+https://indotv.tech/m3u8sd/usee-kix-indonesia.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_east_asia.png" group-title="MOVIES",AXN
 https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
@@ -459,16 +464,16 @@ http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/playlist.m3u8
 https://nonton.site:8443/6894864475/7163819284/908
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bioskop_id.png" group-title="MOVIES",Bioskop Indonesia ussetv
-
+https://indotv.tech/m3u8sd/usee-bioskopindonesia-indonesia.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/imc-id.png" group-title="MOVIES",IMC 
 https://nonton.site:8443/6894864475/7163819284/35484
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/imc-id.png" group-title="MOVIES",IMC ussetv
-
+https://indotv.tech/m3u8sd/usee-imc-indonesia.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-bioskop-in.png" group-title="MOVIES",Zee TV
-
+https://indotv.tech/m3u8sd/usee-zbioskop-indonesia.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-bioskop-in.png" group-title="MOVIES",Zee TV
 
@@ -795,7 +800,7 @@ http://djtv.xyz:8050/2MM0xGdgt5/xKr3q7mcHC/152650
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=6828f61cee49c7a4da0f9c1d3e03b857102a6ed6587b5b8cb4ebbe972864690b
 
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/dd/dreamworks-tv-us.png" group-title="KIDS",Dreamworks
-https://indotv.tech/m3u8sd/usee-dreamworks-indonesia.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/aniplus_kr_hd.png" group-title="KIDS",Aniplus
 
@@ -944,19 +949,19 @@ https://nonton.site:8443/6894864475/7163819284/728
 
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/beIN-2.jpg" group-title="SPORTS",beIN Sports 2
-#https://nonton.site:8443/6894864475/7163819284/729
+https://nonton.site:8443/6894864475/7163819284/729
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/beIN-1.jpg" group-title="SPORTS",beIN Sports 2
 
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/FOXsport150x150.jpg" group-title="SPORTS",Fox Sports
-
+https://indotv.tech/m3u8sd/usee-foxsport1-indonesia.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/FOXsport150x150.jpg" group-title="SPORTS",Fox Sports1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/FoxSport2_150x150.jpg" group-title="SPORTS",Fox Sports 2
-
+https://indotv.tech/m3u8sd/usee-foxsport2-indonesia.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/FOXsport150x150.jpg" group-title="SPORTS",Fox Sports2
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
@@ -968,13 +973,13 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="SPORTS",Usee Sports 1
-
+https://indotv.tech/m3u8sd/usee-useesport1-indonesia.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="SPORTS",Usee Sports 1
 https://nonton.site:8443/6894864475/7163819284/36240
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="SPORTS",Usee Sports 2
-
+https://indotv.tech/m3u8sd/usee-useesports2-indonesia.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="SPORTS",Usee Sports 2
 https://nonton.site:8443/6894864475/7163819284/36241
@@ -983,13 +988,13 @@ https://nonton.site:8443/6894864475/7163819284/36241
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=f72f78a365657d56853b6867fb37dc3c102a6ed6587b5b8cb4ebbe972864690b
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png" group-title="SPORTS",Champions TV 1
-
+https://indotv.tech/m3u8sd/usee-champion1-indonesia.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-2-id.png" group-title="SPORTS",Champions TV 2
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=1458c6647dbf7cca56dff7bfe0576ebb102a6ed6587b5b8cb4ebbe972864690b
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-2-id.png" group-title="SPORTS",Champions TV 2
-
+https://indotv.tech/m3u8sd/usee-champion2-indonesia.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/c3/74/11OHSgGv_t.jpg" group-title="SPORTS",Champions TV 3
@@ -1017,7 +1022,7 @@ http://cctvalih5ca.v.myalicdn.com:80/live/cctv5plus_2/index.m3u8
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="SPORTS",NBA TV
-
+https://indotv.tech/m3u8sd/usee-nba-indonesia.m3u8
 
 #EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="...NBC SPORTS NETWORK HD" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/IsH/IsH_large.png" group-title="SPORTS",...NBC SPORTS NETWORK HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7995
@@ -1030,6 +1035,9 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/t_sports.png" group-title="SPORTS",T Sports
 https://www.livedoomovies.com/02_T_Sports_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/t_sports.png" group-title="SPORTS",Sports
+http://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_sports_us.png" group-title="SPORTS",Fight Sports
 #http://solotv.me:8080/Line1698/b88d5078/157606
@@ -1046,11 +1054,11 @@ http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/6112/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/egg-network-my.png" group-title="SPORTS",SKY Sports
-http://85.203.33.88:80/NUBBt5ZyP2/HjyCHe036/23279
+
 
 #EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/107.jpg" group-title="SPORTS",SKY Sports
-#http://85.203.33.88:80/NUBBt5ZyP2/HjyCHe036/20024
-http://85.203.33.88:80/NUBBt5ZyP2/HjyCHe036/23160
+
+
 #EXTINF:-1 tvg-id="" tvg-name="|BE| Eleven Sports 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="SPORTS",Eleven Sports 1 HD
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 
@@ -1231,8 +1239,8 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="SPORTS PLUS",beIN Sports Xtra
-#https://bein-plutolive-vo.akamaized.net/playlist.m3u8
-https://nonton.site:8443/6894864475/7163819284/37433
+http://rv.flysat.live:80/307242117531/307242117531/163919
+
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/FOXsport150x150.jpg" group-title="SPORTS PLUS",Fox Sports VN
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 
