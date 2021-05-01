@@ -196,15 +196,174 @@ https://fikrulmkc.my.id/bagus/usee-eljohn.m3u8
 #EXTINF:-1
 
 
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_bein1_big1.png?v=2.0.0.13" group-title="ShareExt@UseeSPORTS"  tvg-id="Riyan.d67d8ab4f4c10bf22aa353e27879133c.Coday" tvg-name"[CODAY] beIN Sport 1 _USEETV",beIN Sport 1 _USEE
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=bein1
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_bein2_big1.png?v=2.0.0.13" group-title="ShareExt@UseeSPORTS"  tvg-id="Riyan.1679091c5a880faf6fb5e6087eb1b2dc.Coday" tvg-name"[CODAY] beIN Sport 2 _USEETV",beIN Sport 2 _USEE
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=bein2
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useesport_big.png?v=2.0.0.13" group-title="ShareExt@UseeSPORTS"  tvg-id="Riyan.98f13708210194c475687be6106a3b84.Coday" tvg-name"[CODAY] UseeSports _USEETV",UseeSports _USEE
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=useesport
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useesports2_big.png" group-title="ShareExt@UseeSPORTS"  tvg-id="Riyan.1ff1de774005f8da13f42943881c655f.Coday" tvg-name"[CODAY] UseeSports2 _USEETV",UseeSports2 _USEE
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=useesports2
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_champ1_big.png" group-title="ShareExt@UseeSPORTS"  tvg-id="Riyan.4e732ced3463d06de0ca9a15b6153677.Coday" tvg-name"[CODAY] Champion TV 1 _USEETV",Champion TV 1 _USEE
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=champion1
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_champ2_big.png" group-title="ShareExt@UseeSPORTS"  tvg-id="Riyan.f7177163c833dff4b38fc8d2872f1ec6.Coday" tvg-name"[CODAY] Champion TV 2 _USEETV",Champion TV 2 _USEE
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=champion2
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports1_big.png?v=2.0.0.13" group-title="ShareExt@UseeSPORTS"  tvg-id="Riyan.a87ff679a2f3e71d9181a67b7542122c.Coday" tvg-name"[CODAY] Fox Sport 1 _USEETV",Fox Sport 1 _USEE
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=foxsport1
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports2_big.png?v=2.0.0.13" group-title="ShareExt@UseeSPORTS"  tvg-id="Riyan.c0c7c76d30bd3dcaefc96f40275bdc0a.Coday" tvg-name"[CODAY] Fox Sport 2 _USEETV",Fox Sport 2 _USEE
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=foxsport2
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports3_big.png?v=2.0.0.13" group-title="ShareExt@UseeSPORTS"  tvg-id="Riyan.c51ce410c124a10e0db5e4b97fc2af39.Coday" tvg-name"[CODAY] Fox Sport 3 _USEETV",Fox Sport 3 _USEE
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=foxsport3
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_golf_big1.png?v=2.0.0.14" group-title="ShareExt@UseeSPORTS"  tvg-id="Riyan.f457c545a9ded88f18ecee47145a72c0.Coday" tvg-name"[CODAY] Golf _USEETV",Golf+ _USEE
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=golfplus
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_nba_big1.png?v=2.0.0.13" group-title="ShareExt@UseeSPORTS"  tvg-id="Riyan.6f4922f45568161a8cdf4ad2299f6d23.Coday" tvg-name"[CODAY] NBA _USEETV",NBA _USEE
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=nba
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_egg_big1.png?v=2.0.0.13" group-title="ShareExt@UseeSPORTS"  tvg-id="Riyan.a87ff679a2f3e71d9181a67b7542122c.Coday" tvg-name"[CODAY] egg network _USEETV",egg network _USEE
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=egg
 
+
+
+#EXTINF:-1 tvg-id="trans7" tvg-name="TRANS 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",TRANS 7 (Usee)
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=trans7
+#EXTINF:-1 tvg-id="transtv" tvg-name="TRANS TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",TRANS TV (Usee)
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=transtv
+
+#EXTINF:-1 tvg-id="indosiar" tvg-name="Indosiar" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15" group-title="ShareExt@UseeLOKAL", Indosiar (Usee)
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=indosiar
+#EXTINF:-1 tvg-id="sctv" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="ShareExt@UseeLOKAL", SCTV
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=sctv
+#EXTINF:-1 tvg-id="metrotv" tvg-name="Metro TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL", Metro TV
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=metrotv
+#EXTINF:-1 tvg-id="net" tvg-name="NET TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL", NET TV
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=net
+#EXTINF:-1 tvg-id="rtv" tvg-name="Rajawali TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL", Rajawali TV 
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=rtv
+#EXTINF:-1 tvg-id="beritasatu" tvg-name="Berita Satu" tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL", Berita Satu 
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=beritasatu
+#EXTINF:-1 tvg-id="kompastv" tvg-name="Kompas TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL", Kompas tv
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=kompastv
+#EXTINF:-1 tvg-id="jitv" tvg-name="JITV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jitv_small.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL", JITV
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=jitv
+#EXTINF:-1 tvg-id="insert" tvg-name="Insert" tvg-logo="https://www.useetv.com/assets/images/channel/logo_insert_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL", Insert 
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=insert
+#EXTINF:-1 tvg-id="antara" tvg-name="ANTARA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_antara_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL", ANTARA TV 
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=antara
+#EXTINF:-1 tvg-id="useeinfo" tvg-name="Ruang Terampil" tvg-logo="https://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png?v=2.0.1.16" group-title="ShareExt@UseeLOKAL", Ruang Terampil 
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=useeinfo
+#EXTINF:-1 tvg-id="useephoto" tvg-name="Usee Photo" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL", Usee Photo 
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=useephoto
+#EXTINF:-1 tvg-id="useeprime" tvg-name="Usee Prime" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useeprime_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL", Usee Prime
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=useeprime
+#EXTINF:-1 tvg-id="balitv" tvg-name="BALI TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL", BALI TV
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=balitv
+#EXTINF:-1 tvg-id="jaktv" tvg-name="JAK TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL", JAK TV 
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=jaktv
+#EXTINF:-1 tvg-id="jtv" tvg-name="JTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL", JTV 
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=jtv
+#EXTINF:-1 tvg-id="tvedukasi" tvg-name="TV Edukasi" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvedukasi_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL",TV Edukasi 
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=tvedukasi
+#EXTINF:-1 tvg-id="tvri" tvg-name="TVRI" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL", TVRI
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=tvri
+#EXTINF:-1 tvg-id="daaitv" tvg-name="DAAI TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL", DAAI Tv
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=daaitv
+#EXTINF:-1 tvg-id="rrinet" tvg-name="RRI NET" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rri_small1.png?v=2.0.0.13" group-title="ShareExt@UseeLOKAL", RRI NET
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=rrinet
+#EXTINF:-1 tvg-id="antv" tvg-name="antv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="ShareExt@UseeLOKAL",ANTV 
+http://210.210.155.35/session/0f9e2aba-c5ea-11e8-a5d9-c81f66f89318/qwr9ew/s/s07/01.m3u8
+#EXTINF:-1 tvg-id="tvone" tvg-name="tvone" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="ShareExt@UseeLOKAL",TV ONE
+http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png?v=2.0.0.13" group-title="ShareExt@UseeEntertainment", Dunia Lain 
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=dunialain
+#EXTINF:-1 tvg-id="citradrama" tvg-name="tes" tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png?v=2.0.0.15" group-title="ShareExt@UseeEntertainment", Citra Drama
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=cdrama
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png?v=2.0.0.13" group-title="ShareExt@UseeEntertainment", Warner 
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=warner
+#EXTINF:-1 tvg-id="blueant" tvg-name="blueant" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="ShareExt@UseeEntertainment", Blue ant entertainmet
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=blueant
+#EXTINF:-1 tvg-id="blueantextreme" tvg-name="blueantextreme" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="ShareExt@UseeEntertainment", Blue ant extreme
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=blueantextreme
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="ShareExt@UseeEntertainment", AXN 
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=axn
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_chinesedrama_small.png?v=2.0.0.13" group-title="ShareExt@UseeEntertainment", Chinese Drama 
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=chinesedrama
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?v=2.0.0.13" group-title="ShareExt@UseeEntertainment", Kix 
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=kix
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png?v=2.0.0.13" group-title="ShareExt@UseeEntertainment", Waku Waku Japan 
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=wakuwaku
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png?v=2.0.0.13" group-title="ShareExt@UseeEntertainment", K+ 
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=kplus
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title="ShareExt@UseeEntertainment", Sony GEM TV
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=sgem
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small.png?v=2.0.0.13" group-title="ShareExt@UseeEntertainment", Sony One 
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=sone
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_outdoor_small.png?v=1.1" group-title="ShareExt@UseeEntertainment", Outdoor CHANNEL 
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=outdoor
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="ShareExt@UseeEntertainment", Aniplus 
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=aniplus
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="ShareExt@UseeEntertainment", Animax 
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=animax
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kbsworld_small.png" group-title="ShareExt@UseeEntertainment", KBS World 
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=kbsworld
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_abcaustralia_small.png" group-title="ShareExt@UseeEntertainment", ABC Australia 
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=abcaustralia
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="ShareExt@UseeEntertainment", Lifetime 
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=lifetime
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ctiasia_small.png" group-title="ShareExt@UseeEntertainment", Ctiasia
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=ctiasia
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cctv4_small1.png?v=2.0.0.13" group-title="ShareExt@UseeEntertainment", CCTV4 
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=cctv4
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworld_small.png?v=2.0.0.13" group-title="ShareExt@UseeEntertainment", NHK World Japan 
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=nhkworld
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_arirang_small.png" group-title="ShareExt@UseeEntertainment", Arirang 
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=arirang
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv5monde_small1.png?v=2.0.0.13" group-title="ShareExt@UseeEntertainment", TV5Monde 
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=tv5monde
+
+
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="ShareExt@UseeMovies", Bioskop Indonesia 
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=bioskopindonesia
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="ShareExt@UseeMovies", ZBioskop 
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=zbioskop
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="ShareExt@UseeMovies", TVN 
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=tvn
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="ShareExt@UseeMovies", TVN MOVIES
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=tvnmovies
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="ShareExt@UseeMovies", Thrill 
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=thrill
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="ShareExt@UseeMovies", Celestial Movie 
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=celestialmovie
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="ShareExt@UseeMovies", Cinema World 
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=cinemaworld
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="ShareExt@UseeMovies", Flik 
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=flik
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="ShareExt@UseeMovies", galaxy
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=Galaxy 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="ShareExt@UseeMovies", Galaxy Premium 
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=galaxypremium
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="ShareExt@UseeMovies", IMC 
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=imc
+
+
+#EXTINF:-1
+
+
+#EXTINF:-1 group-title="Musik",MALEO TV
+http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 
 
  #EXTINF:-1 tvg-id="egg" tvg-logo="http://kamiselaluada.com/img/egg.png" group-title="Premium Channel", eGG TV 
 http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/fightsport.png" group-title="Premium Channel", Fight Sports
- http://210.210.155.35/session/5e4c2166-2efd-11eb-9da2-b82a72d63267/uq2663/h/h05/01.m3u8
-
+# http://210.210.155.35/session/5e4c2166-2efd-11eb-9da2-b82a72d63267/uq2663/h/h05/01.m3u8
+http://210.210.155.35/uq2663/h/h05/01.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/animax.png" group-title="Premium Channel", Animax
  http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/01.m3u8
 
@@ -495,7 +654,7 @@ https://nonton.site:8443/6894864475/7163819284/1533
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png" group-title="MOVIES",TVN MOVIES
-http://solotv.me:8080/Line1698/b88d5078/157596
+
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png" group-title="MOVIES",TVN ussetv
@@ -522,7 +681,7 @@ https://nonton.site:8443/6894864475/7163819284/35484
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/b4u_movies_in.png" group-title="MOVIES",B4U Movies
-http://rv.flysat.live:80/307242117531/307242117531/83696
+
 
 #EXTINF:-1
 
@@ -1260,6 +1419,33 @@ http://new-pro.tv:1935/HAMASHAREF27/XSmR2Vnlht/33783
 
 
 ####Netflix Series####
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION ONE" tvg-logo="http://xtream-coders.com/x0/movie/netflix_action_one.png" group-title="MOVIES",NETFLIX ACTION ONE
+http://011011011.com:8080/vuemedia/587yt65r/164415
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION TWO" tvg-logo="http://xtream-coders.com/x0/movie/netflix_action_two.png" group-title="MOVIES",NETFLIX ACTION TWO
+http://011011011.com:8080/vuemedia/587yt65r/164416
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION THREE" tvg-logo="http://xtream-coders.com/x0/movie/netflix_action_three.png" group-title="MOVIES",NETFLIX ACTION THREE
+http://011011011.com:8080/vuemedia/587yt65r/164417
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION FOUR" tvg-logo="http://xtream-coders.com/x0/movie/netflix_action_four.png" group-title="MOVIES",NETFLIX ACTION FOUR
+http://011011011.com:8080/vuemedia/587yt65r/164418
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION FIVE" tvg-logo="http://xtream-coders.com/x0/movie/netflix_action_five.png" group-title="MOVIES",NETFLIX ACTION FIVE
+http://011011011.com:8080/vuemedia/587yt65r/164419
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION SIX" tvg-logo="http://xtream-coders.com/x0/movie/netflix_action_six.png" group-title="MOVIES",NETFLIX ACTION SIX
+http://011011011.com:8080/vuemedia/587yt65r/164420
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA TWO" tvg-logo="http://xtream-coders.com/x0/movie/netflix_drama_two.png" group-title="MOVIES",NETFLIX DRAMA TWO
+http://011011011.com:8080/vuemedia/587yt65r/164422
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR ONE" tvg-logo="http://xtream-coders.com/x0/movie/netflix_horror_one.png" group-title="MOVIES",NETFLIX HORROR ONE
+http://011011011.com:8080/vuemedia/587yt65r/164423
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR TWO" tvg-logo="http://xtream-coders.com/x0/movie/netflix_horror_two.png" group-title="MOVIES",NETFLIX HORROR TWO
+http://011011011.com:8080/vuemedia/587yt65r/164424
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR THREE" tvg-logo="http://xtream-coders.com/x0/movie/netflix_horror_three.png" group-title="MOVIES",NETFLIX HORROR THREE
+http://011011011.com:8080/vuemedia/587yt65r/164425
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR FOUR" tvg-logo="http://xtream-coders.com/x0/movie/netflix_horror_four.png" group-title="MOVIES",NETFLIX HORROR FOUR
+http://011011011.com:8080/vuemedia/587yt65r/164426
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR FIVE" tvg-logo="http://xtream-coders.com/x0/movie/netflix_horror_five.png" group-title="MOVIES",NETFLIX HORROR FIVE
+http://011011011.com:8080/vuemedia/587yt65r/164427
 
 #EXTINF:-1 group-title="Netflix Series" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" ,Netflix HD1 Ar
 http://new-pro.tv:1935/HAMASHAREF27/XSmR2Vnlht/29933
@@ -2145,23 +2331,6 @@ http://line.crystalott.net:80/P3DLIMKQ6G/UJUDTLEKOK/558
 #EXTINF:-1
 
 
-#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="Sky Sports Premier League HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-premier-league-icon-uk.png?raw=true" group-title="ShareExt@SKY SPORTS",SkySports PremierLeague HD
-#http://goodtv.xyz:2052/reggie/reggie/2485220
-http://172.106.167.186:128/budTV/3232/3060_.m3u8
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-football-icon-uk.png?raw=true" group-title="ShareExt@SKY SPORTS",SkySports Football FHD
-#http://goodtv.xyz:2052/reggie/reggie/2485225
-http://23.227.145.10:128/budTV/3232/3061_.m3u8
-#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-cricket-icon-uk.png?raw=true" group-title="ShareExt@SKY SPORTS",SkySports Cricket HD
-http://goodtv.xyz:2052/reggie/reggie/2485213
-
-#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="Sky Sports Golf HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-golf-icon-uk.png?raw=true" group-title="ShareExt@SKY SPORTS",SkySports Golf HD
-http://goodtv.xyz:2052/reggie/reggie/2485216
-
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-f1-icon-uk.png?raw=true" group-title="ShareExt@SKY SPORTS",SkySports F1 HD
-http://goodtv.xyz:2052/reggie/reggie/2485214
-
-#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-sports-action-icon-uk.png" group-title="ShareExt@SKY SPORTS",SkySports Action HD
-http://goodtv.xyz:2052/reggie/reggie/2485211
 
 
 
